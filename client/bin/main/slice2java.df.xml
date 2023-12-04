@@ -1,12 +1,15 @@
 <state>
-  <timestamp value='1653088421626' />
+  <timestamp value='1701711167731' />
   <sourceSet name='default'>
-    <source name='/home/gtamura/own/cursos/swarch/resources/ICE/helloworld/Printer.ice'>
-      <file name='/home/gtamura/own/cursos/swarch/resources/ICE/helloworld/client/build/generated-src/Demo/Printer.java' />
-      <file name='/home/gtamura/own/cursos/swarch/resources/ICE/helloworld/client/build/generated-src/Demo/PrinterPrx.java' />
-      <file name='/home/gtamura/own/cursos/swarch/resources/ICE/helloworld/client/build/generated-src/Demo/_PrinterPrxI.java' />
+    <source name='C:\Documents\IngenieriaDeSistemas\Semestre 7\ProyectoFinalIntento2\helloworld\Printer.ice'>
+      <file name='C:\Documents\IngenieriaDeSistemas\Semestre 7\ProyectoFinalIntento2\helloworld\client\build\generated-src\Demo\Worker.java' />
+      <file name='C:\Documents\IngenieriaDeSistemas\Semestre 7\ProyectoFinalIntento2\helloworld\client\build\generated-src\Demo\Master.java' />
+      <file name='C:\Documents\IngenieriaDeSistemas\Semestre 7\ProyectoFinalIntento2\helloworld\client\build\generated-src\Demo\WorkerPrx.java' />
+      <file name='C:\Documents\IngenieriaDeSistemas\Semestre 7\ProyectoFinalIntento2\helloworld\client\build\generated-src\Demo\_WorkerPrxI.java' />
+      <file name='C:\Documents\IngenieriaDeSistemas\Semestre 7\ProyectoFinalIntento2\helloworld\client\build\generated-src\Demo\MasterPrx.java' />
+      <file name='C:\Documents\IngenieriaDeSistemas\Semestre 7\ProyectoFinalIntento2\helloworld\client\build\generated-src\Demo\_MasterPrxI.java' />
     </source>
-    <arg value='/opt/Ice-3.7.6/bin/slice2java' />
-    <arg value='-I/opt/Ice-3.7.6/slice' />
+    <arg value='C:\Program Files\ZeroC\Ice-3.7.9\\bin\slice2java.exe' />
+    <arg value='-IC:\Program Files\ZeroC\Ice-3.7.9\\slice' />
   </sourceSet>
 </state>

@@ -1,6 +1,6 @@
 public class Client
 {
-    public static void main(String[] args)
+    /*public static void main(String[] args)
     {
         java.util.List<String> extraArgs = new java.util.ArrayList<>();
 
@@ -18,5 +18,5 @@ public class Client
             }
             printer.printString("Hello World!");
         }
-    }
+    }*/
 }

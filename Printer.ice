@@ -8,8 +8,8 @@ module Demo
     interface Master {
         void createTasks();
         void launchWorkers();
-        Task getTask();
-        void addPartialResult(Object);
+        Object getTask();
+        void addPartialResult(Object obj);
         Object processPartialResult();
         void shutDownWorkers();
     }

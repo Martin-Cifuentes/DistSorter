@@ -3,7 +3,7 @@ import java.io.*;
 
 public class Server
 {
-    public static void main(String[] args)
+    /*public static void main(String[] args)
     {
         java.util.List<String> extraArgs = new java.util.ArrayList<String>();
 
@@ -41,6 +41,6 @@ public class Server
         }
         catch(Exception ex) {
         }
-    }
+    }*/
 
 }
